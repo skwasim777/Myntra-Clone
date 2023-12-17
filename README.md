@@ -1,8 +1,10 @@
 
 # Myntra Clone
 Welcome to the Myntra Clone project! This is a web development practice project where we aim to replicate the main features and layout of the Myntra website using HTML and CSS.
+
 ## Demo
 Explore the live demo of the Myntra clone here.
+
 ## Features
 - Responsive Design: The website adapts to various screen sizes, providing a seamless experience.
 - Header Section: Includes a navigation bar, search bar, and action bar for user interaction.
