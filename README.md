@@ -1,7 +1,6 @@
 
 # Myntra Clone
 Welcome to the Myntra Clone project! This is a web development practice project where we aim to replicate the main features and layout of the Myntra website using HTML and CSS.
-
 ## Demo
 Explore the live demo of the Myntra clone here.
 ## Features
